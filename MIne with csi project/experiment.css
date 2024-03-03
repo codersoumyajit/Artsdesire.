@@ -1,0 +1,7 @@
+.skill-container{
+    /* border: 2px solid black; */
+    height: 90vh;
+    display: flex;
+    width:1200px;
+    margin:0 auto;
+  }
